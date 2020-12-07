@@ -1,2 +1,2 @@
 # Hello-World
-Training Repository
+Currently learning Data Science
